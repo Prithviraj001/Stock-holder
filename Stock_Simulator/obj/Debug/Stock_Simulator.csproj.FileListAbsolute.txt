@@ -1,0 +1,43 @@
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\bin\Debug\Stock_Simulator.exe.config
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\bin\Debug\Stock_Simulator.exe
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\bin\Debug\Stock_Simulator.pdb
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\obj\Debug\Stock_Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\obj\Debug\App.g.cs
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\obj\Debug\Stock_Simulator_MarkupCompile.cache
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\obj\Debug\Stock_Simulator_MarkupCompile.lref
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\obj\Debug\MainWindow.baml
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\obj\Debug\Stock_Simulator.g.resources
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\obj\Debug\Stock_Simulator.Properties.Resources.resources
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\obj\Debug\Stock_Simulator.csproj.GenerateResource.Cache
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\obj\Debug\Stock_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\obj\Debug\Stock_Simulator.exe
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\obj\Debug\Stock_Simulator.pdb
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\bin\Debug\LiveCharts.dll
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\bin\Debug\LiveCharts.pdb
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\bin\Debug\LiveCharts.xml
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Saravanan\Documents\Visual Studio 2017\Projects\Stock_Simulator\Stock_Simulator\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\bin\Debug\Stock_Simulator.exe.config
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\bin\Debug\Stock_Simulator.exe
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\bin\Debug\Stock_Simulator.pdb
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\bin\Debug\LiveCharts.dll
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\bin\Debug\LiveCharts.pdb
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\bin\Debug\LiveCharts.xml
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\obj\Debug\Stock_Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\obj\Debug\App.g.cs
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\obj\Debug\Stock_Simulator_MarkupCompile.cache
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\obj\Debug\Stock_Simulator_MarkupCompile.lref
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\obj\Debug\MainWindow.baml
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\obj\Debug\Stock_Simulator.g.resources
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\obj\Debug\Stock_Simulator.Properties.Resources.resources
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\obj\Debug\Stock_Simulator.csproj.GenerateResource.cache
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\obj\Debug\Stock_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\obj\Debug\Stock_Simulator.csproj.CopyComplete
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\obj\Debug\Stock_Simulator.exe
+C:\Users\Prithvi\Documents\Stock_Simulator\Stock_Simulator\obj\Debug\Stock_Simulator.pdb
